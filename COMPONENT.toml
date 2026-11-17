@@ -3,7 +3,7 @@ name = "SigmaOS-service-restart"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-restart component"
+description = "service restart"
 upstream = []
 
 [contract]
